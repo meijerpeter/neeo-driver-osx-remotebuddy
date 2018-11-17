@@ -1,0 +1,24 @@
+{
+  "name": "neeo-driver-osx-remotebuddy",
+  "version": "1.0.0",
+  "description": "Controls the RemoteBuddy menu of your Mac with the NEEO remote",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meijerpeter/neeo-driver-osx-remotebuddy"
+  },
+  "author": "Peter Meijer <meijerpeter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meijerpeter/neeo-driver-osx-remotebuddy/issues"
+  },
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "neeo-sdk": "*"
+  },
+  "keywords": [
+    "neeo",
+    "neeo-driver",
+    "osx remotebuddy"
+  ]
+}
