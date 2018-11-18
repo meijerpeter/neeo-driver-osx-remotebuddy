@@ -1,6 +1,6 @@
 {
   "name": "neeo-driver-osx-remotebuddy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Controls the RemoteBuddy menu of your Mac with the NEEO remote",
   "main": "index.js",
   "repository": {
